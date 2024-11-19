@@ -1,0 +1,51 @@
+<div class="container py-5">
+    <h2 class="text-center mb-5 fw-bold">Our Plans</h2>
+    <div class="row g-4">
+        <!-- Starter Plan -->
+        <div class="col-md-6">
+            <div class="card border-primary h-100">
+                <div class="card-body">
+                    <h3 class="card-title text-primary fw-bold">Starter Plan</h3>
+                    <p class="card-text text-muted mb-4">Perfect for small businesses or personal projects to establish your online presence.</p>
+                    <ul class="list-unstyled">
+                        <li>✅ Custom Landing Page</li>
+                        <li>✅ Responsive Design</li>
+                        <li>✅ Basic SEO Setup</li>
+                        <li>✅ Contact Form Integration</li>
+                        <li>✅ Free Hosting (6 months)</li>
+                        <li>✅ Social Media Links</li>
+                    </ul>
+                </div>
+                <div class="card-footer text-center">
+                    <span class="h4 fw-bold">$199</span> <span class="text-muted">/ one-time</span>
+                    <br>
+                    <button class="btn btn-primary mt-3">Get Started</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Professional Plan -->
+        <div class="col-md-6">
+            <div class="card border-success h-100">
+                <div class="card-body">
+                    <h3 class="card-title text-success fw-bold">Professional Plan</h3>
+                    <p class="card-text text-muted mb-4">Ideal for growing businesses or eCommerce platforms with advanced requirements.</p>
+                    <ul class="list-unstyled">
+                        <li>✅ Everything in Starter Plan</li>
+                        <li>✅ Multi-page Website</li>
+                        <li>✅ Advanced SEO Optimization</li>
+                        <li>✅ E-commerce Integration</li>
+                        <li>✅ Admin Dashboard</li>
+                        <li>✅ Analytics & Reporting</li>
+                        <li>✅ Priority Support</li>
+                    </ul>
+                </div>
+                <div class="card-footer text-center">
+                    <span class="h4 fw-bold">$499</span> <span class="text-muted">/ one-time</span>
+                    <br>
+                    <button class="btn btn-success mt-3">Get Started</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
